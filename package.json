@@ -27,7 +27,7 @@
     "@ember/jquery": "^0.5.2",
     "@ember/optional-features": "^0.6.3",
     "@rancher/ember-api-store": "2.9.2",
-    "ansi_up": "^2.0.2",
+    "ansi_up": "^5.0.0",
     "async": "2.1.2",
     "babel-eslint": "^9.0.0",
     "broccoli-asset-rev": "^2.7.0",
