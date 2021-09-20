@@ -95,7 +95,7 @@
     "marked": "^0.3.15",
     "moment": "~2.22.1",
     "prettycron": "^0.10.0",
-    "prismjs": "^1.15.0",
+    "prismjs": "^1.25.0",
     "qunit-dom": "^0.8.0",
     "rancher-cytoscape-dagre": "2.2.7",
     "semver": "^5.4.1",
